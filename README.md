@@ -1,5 +1,5 @@
 - 👋 Heyyy, I’m @datadevon
-- 👀 I’m interested in using data analytics and forecasting to make companies deliver ESG compliant 
+- 👀 I’m interested in using data analytics and forecasting to make companies deliver ESG compliant products
 - 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me? As Kim Possible said, "Call me! Beep me! If you wanna reach me!!" Best way is devondouglassdei at gmail
